@@ -11,7 +11,7 @@ body {
 }
 h1 {
   left: 60px;
-  top: 60px;
+  margin-top: 60px;
   font-size: 210px;
   font-style: bold;
   line-height: 290px;
