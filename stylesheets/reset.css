@@ -5,9 +5,6 @@ body {
   color: #162DFB;
   background-color: #F3F3F3;
 }
-div {
-  margin-top: 0px;
-}
 h1 {
   padding-left: 60px;
   font-size: 210px;
@@ -24,7 +21,4 @@ p {
 #text1{
   width: 650px;
   margin-top: 6px;
-}
-.screen {
-  height: 1240px;
 }
