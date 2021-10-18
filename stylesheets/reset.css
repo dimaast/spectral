@@ -6,10 +6,12 @@ body {
   background-color: #F3F3F3;
 }
 h1 {
+  padding-left: 60px;
   font-size: 210px;
   font-style: bold;
 }
 p {
+  padding-left: 60px;
   font-size: 35px;
   font-style: regular;
 }
