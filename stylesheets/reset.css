@@ -5,6 +5,10 @@ body {
   color: #162DFB;
   background-color: #F3F3F3;
 }
+.screen {
+  height: 1240px;
+  margin-top: 0px;
+}
 h1 {
   padding-left: 60px;
   font-size: 210px;
@@ -18,7 +22,7 @@ p {
   font-style: regular;
   line-height: 48px;
 }
-#text1{
+.text1{
   width: 650px;
   margin-top: 6px;
 }
