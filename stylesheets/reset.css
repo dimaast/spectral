@@ -9,12 +9,13 @@ h1 {
   padding-left: 60px;
   font-size: 210px;
   font-style: bold;
-  line-height: 81px;
+  line-height: 290px;
 }
 p {
   padding-left: 60px;
   font-size: 35px;
   font-style: regular;
+  line-height: 48px;
 }
 #text1{
   width: 650px;
