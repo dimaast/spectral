@@ -23,6 +23,7 @@ p {
 }
 #text1{
   width: 650px;
+  margin-top: 6px;
 }
 .screen {
   height: 1240px;
