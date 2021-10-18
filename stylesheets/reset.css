@@ -10,6 +10,7 @@ h1 {
   font-size: 210px;
   font-style: bold;
   line-height: 290px;
+  height: 290px;
   padding-top: 60px;
 }
 p {
