@@ -10,11 +10,11 @@ body {
   margin-top: 0px;
 }
 h1 {
-  padding-left: 60px;
+  left: 60px;
+  top: 60px;
   font-size: 210px;
   font-style: bold;
   line-height: 290px;
-  margin-top: 60px;
 }
 p {
   padding-left: 60px;
