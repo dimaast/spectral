@@ -6,9 +6,9 @@ body {
   background-color: #F3F3F3;
   width: 1280px;
 }
-.screen {
-  height: 720px;
-  margin: 0px 0px 0px 60px;
+h1, h2, h3, h4, p, ul, ol, blockquote, div, img, hr {
+  width: 1280px;
+  margin: 0 auto;
 }
 h1 {
   margin: 60px 0px 0px 60px;
