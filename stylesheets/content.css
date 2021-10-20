@@ -1,0 +1,82 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Spectral', sans-serif;
+  color: #162DFB;
+  width: 1280px;
+  background-image: url("../img/iMac.svg");
+  background-color: #F3F3F3;
+  margin: 0 auto;
+}
+#screen {
+  height: 1030px;
+  margin: 0px 0px 0px 0px;
+}
+#screen2 {
+  width: 1030px;
+  margin: 0px 0px 0px 0px;
+}
+#screen3 {
+  height: 948px;
+  margin: 57px 0px 0px 0px;
+  background-color: #162DFB;
+}
+.fontstyles {
+  display: flex;
+  flex-direction: row;
+  margin: 52px 0px 0px 60px;
+  width: 1160px;
+  justify-content: space-between;
+}
+h1 {
+  margin: 0 auto;
+  width: 734px;
+  font-size: 192px;
+  font-style: bold;
+  line-height: 265px;
+}
+h2 {
+  margin: 0 auto;
+  padding-top: 52px;
+  width: 1160px;
+  text-transform: uppercase;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 99px;
+}
+#screen3 h2 {
+  color: #F3F3F3;
+}
+p {
+  font-size: 32px;
+  font-style: regular;
+  line-height: 44px;
+}
+#text1{
+  width: 688px;
+  margin: -28px 0px 0px 60px;
+}
+#text2{
+  width: 570px;
+  margin: 15px 0px 0px 60px;
+}
+#text3{
+  width: 570px;
+  margin: 0px 0px 0px 650px;
+}
+#tablo {
+  margin: 39px 60px 0px 60px;
+  width: 1160px;
+}
+#visa {
+  margin: 52px 60px 0px 60px;
+  width: 1160px;
+}
+#astyleregular {
+  width: 570px;
+  height: 569px;
+}
+#astyleitalic {
+  width: 570px;
+  height: 569px;
+}
