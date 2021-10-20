@@ -21,7 +21,7 @@ body {
   background-color: #162DFB;
 }
 #fontstyles {
-  display: inline;
+  display: inline-block;
 }
 h1 {
   margin: 60px 0px 0px 60px;
@@ -68,9 +68,11 @@ p {
   width: 570px;
   height: 569px;
   margin: 52px 60px 0px 60px;
+  display: inline-block;
 }
 #astyleitalic {
   width: 570px;
   height: 569px;
   margin: 52px 60px 0px 60px;
+  display: inline-block;
 }
