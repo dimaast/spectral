@@ -5,6 +5,7 @@ body {
   color: #162DFB;
   width: 1280px;
   background-color: #F3F3F3;
+  background-image: url("../img/tablo.svg");
 }
 .screen {
   display: block;
