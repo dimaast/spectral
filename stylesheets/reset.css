@@ -29,7 +29,8 @@ h1 {
   line-height: 265px;
 }
 h2 {
-  margin: 60px 0px 0px 60px;
+  margin: 0px 0px 0px 0px;
+  padding: 57px 0px 0px 0px;
   font-size: 72px;
   font-style: medium;
   line-height: 99px;
