@@ -15,7 +15,11 @@ body {
   width: 911px;
   margin: 0px 0px 0px 0px;
 }
-.screen3 {
+.screen2 {
+  width: 911px;
+  margin: 57px 0px 0px 0px;
+}
+.screen4 {
   height: 948px;
   margin: 57px 0px 0px 0px;
   background-color: #162DFB;
@@ -48,6 +52,10 @@ p {
 #text2{
   width: 570px;
   margin: 15px 0px 0px 60px;
+}
+#text2{
+  width: 570px;
+  margin: 0px 0px 0px 650px;
 }
 #tablo {
   margin: 39px 60px 0px 60px;
