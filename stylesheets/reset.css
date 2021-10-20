@@ -3,7 +3,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Spectral', sans-serif;
   color: #162DFB;
-  width: 1280px;
+  width: 100%;
   background-color: #F3F3F3;
   margin: 0 auto;
 }
