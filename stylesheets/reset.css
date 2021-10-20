@@ -7,14 +7,14 @@ body {
   width: 1280px;
 }
 .screen {
-  width: 1270px;
+  width: 1280px;
   height: 720px;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px -10px;
 }
 .screen3 {
-  width: 1270px;
+  width: 1280px;
   height: 948px;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px -10px;
   background-color: #162DFB;
 }
 .screen3 h1 {
