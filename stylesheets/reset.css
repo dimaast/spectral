@@ -9,12 +9,12 @@ body {
 .screen {
   width: 1280px;
   height: 720px;
-  margin: 0px 0px 0px -10px;
+  margin: 0px 0px 0px 0px;
 }
 .screen3 {
   width: 1280px;
   height: 948px;
-  margin: 0px 0px 0px -10px;
+  margin: 0px 0px 0px 0px;
   background-color: #162DFB;
 }
 .screen3 h1 {
