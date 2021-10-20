@@ -4,17 +4,19 @@ body {
   font-family: 'Spectral', sans-serif;
   color: #162DFB;
   background-color: #F3F3F3;
-  width: 1270px;
+  width: 1280px;
 }
 .screen {
-  width: 1270px;
+  display: block;
+  width: 1280px;
   height: 720px;
-  margin: 0px 0px 0px -10px;
+  margin: 0px 0px 0px 0px;
 }
 .screen3 {
-  width: 1270px;
+  display: block;
+  width: 1280px;
   height: 948px;
-  margin: 0px 0px 0px -10px;
+  margin: 0px 0px 0px 0px;
   background-color: #162DFB;
 }
 .screen3 h1 {
