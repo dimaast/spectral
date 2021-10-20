@@ -4,7 +4,7 @@ body {
   font-family: 'Spectral', sans-serif;
   color: #162DFB;
   width: 1280px;
-  background-image: url('img/tablo.svg');
+  background-image: url("img/tablo.svg");
 }
 .screen {
   display: block;
