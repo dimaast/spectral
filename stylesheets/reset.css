@@ -3,8 +3,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Spectral', sans-serif;
   color: #162DFB;
-  background-color: #F3F3F3;
   width: 1280px;
+  background-image: url(img/tablo.svg);
 }
 .screen {
   display: block;
