@@ -21,7 +21,8 @@ body {
   background-color: #162DFB;
 }
 .fontstyles {
-  display: inline;
+  display: flex;
+  flex-direction: row;
   margin: 0px 0px 0px 0px;
 }
 h1 {
