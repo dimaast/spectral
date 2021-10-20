@@ -11,6 +11,10 @@ body {
   height: 720px;
   margin: 0px 0px 0px 0px;
 }
+.screen2 {
+  width: 911px;
+  margin: 0px 0px 0px 0px;
+}
 .screen3 {
   display: block;
   height: 948px;
@@ -40,8 +44,12 @@ p {
   width: 688px;
   margin: -28px 0px 0px 60px;
 }
+#text2{
+  width: 570px;
+  margin: 15px 0px 0px 60px;
+}
 #tablo {
-  margin: 0px 60px 0px 60px;
+  margin: 39px 60px 0px 60px;
   width: 1160px;
 }
 #visa {
