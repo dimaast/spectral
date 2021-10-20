@@ -20,8 +20,9 @@ body {
   margin: 57px 0px 0px 0px;
   background-color: #162DFB;
 }
-#fontstyles {
+.fontstyles {
   display: inline;
+  margin: 0px 0px 0px 0px;
 }
 h1 {
   margin: 60px 0px 0px 60px;
