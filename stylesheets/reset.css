@@ -23,7 +23,7 @@ body {
 .fontstyles {
   display: flex;
   flex-direction: row;
-  margin: 0px 0px 0px 0px;
+  margin: 52px 0px 0px 60px;
   justify-content: space-between;
 }
 h1 {
@@ -70,10 +70,8 @@ p {
 #astyleregular {
   width: 570px;
   height: 569px;
-  margin: 52px 60px 0px 60px;
 }
 #astyleitalic {
   width: 570px;
   height: 569px;
-  margin: 52px 60px 0px 20px;
 }
