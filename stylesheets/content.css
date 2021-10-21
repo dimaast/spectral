@@ -5,18 +5,20 @@ body {
   margin: 0 auto;
   color: #162DFB;
   width: 1280px;
+  background-color: #F3F3F3;
+  background-image: url("../img/hm.svg");
 }
 #screen1 {
   height: 720px;
   margin: 0px 0px 0px 0px;
   color: #F3F3F3;
+  background-color: #162DFB;
+  background-image: url("../img/oblakaback.svg");
 }
 #samoletvzlet {
   width: 96px;
   display: flex;
-  margin: 207px auto 0px;
-  background-color: #162DFB;
-  background-image: url("../img/oblakaback.svg");
+  margin: 207px auto 0px
 }
 h1 {
   margin: -125px auto -133px;
