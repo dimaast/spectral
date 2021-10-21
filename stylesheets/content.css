@@ -76,7 +76,7 @@ body {
 }
 /* Настройки div внутри экранов */
 #s2text {
-  display: flex;
+  display: block;
   margin: 0 auto;
   padding: 52px 0px 0px 0px;
 }
@@ -134,6 +134,7 @@ p {
 }
 .lh {
   font-weight: 700;
+  display: flex;
 }
 #text2{
   width: 570px;
