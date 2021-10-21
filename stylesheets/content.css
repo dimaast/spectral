@@ -9,7 +9,7 @@ body {
   background-image: url("../img/hm.svg");
 }
 #screen1 {
-  display: flex;
+  position: fixed;
   height: 720px;
   margin: 0px 0px 0px 0px;
   color: #F3F3F3;
