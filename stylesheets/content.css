@@ -74,8 +74,8 @@ body {
   height: 759px;
   margin: 0px 0px 0px 0px;
 }
-/* Настройки div внутри экранов */
-.aaa {
+/* Настройки div внутри 1 экрана */
+.s2text {
   width: 876px;
   display: flex;
   flex-direction: row;
@@ -93,28 +93,6 @@ body {
   font-weight: 700;
 }
 .lh2 {
-  width: 595px;
-}
-#s2text {
-  width: 876px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin: 0 auto;
-  padding: 52px 0px 0px 0px;
-}
-#s2bold {
-  height: 410px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  width: 221px;
-}
-#s2reg {
-  height: 410px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
   width: 595px;
 }
 #samoletvzlet {
