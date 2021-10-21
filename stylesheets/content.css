@@ -11,8 +11,6 @@ body {
 #screen1 {
   height: 720px;
   margin: 0px 0px 0px 0px;
-  background-image: url("../img/oblakaback.svg");
-  background-color: #162DFB;
   color: #F3F3F3;
 }
 h1 {
