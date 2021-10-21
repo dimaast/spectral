@@ -14,6 +14,10 @@ body {
   background-color: #162DFB;
   color: #F3F3F3;
 }
+#samoletzlet {
+  width: 96px;
+  margin: 0 auto;
+}
 h1 {
   margin: 0 auto;
   padding: 140px 0px 0px 0px;
@@ -29,10 +33,6 @@ h1 {
   line-height: 50px;
   font-style: italic;
   margin: -97px auto;
-}
-#samoletzlet {
-  width: 96px;
-  margin: 0 auto;
 }
 #screen2 {
   width: 1030px;
