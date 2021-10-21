@@ -10,14 +10,14 @@ body {
 }
 #screen1 {
   height: 720px;
-  margin: 0px 0px 0px 0px;
+  margin: 0 auto;
   color: #F3F3F3;
   background-color: #162DFB;
   background-image: url("../img/oblakaback.svg");
 }
 #screen2 {
   height: 810px;
-  margin: 0px 0px 0px 0px;
+  margin: 0 auto;
   color: #162DFB;
 }
 #screen3 {
