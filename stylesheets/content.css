@@ -135,6 +135,7 @@ p {
 .lh {
   font-weight: 700;
   display: flex;
+  width: 410px;
 }
 #text2{
   width: 570px;
