@@ -37,13 +37,48 @@ h1 {
   margin: -97px auto;
 }
 #screen2 {
-  width: 1030px;
+  width: 810px;
   margin: 0px 0px 0px 0px;
 }
 #screen3 {
-  height: 948px;
-  margin: 57px 0px 0px 0px;
-  background-color: #162DFB;
+  width: 1074px;
+  margin: 0px 0px 0px 0px;
+}
+#screen4 {
+  height: 1105px;
+  margin: 0px 0px 0px 0px;
+}
+#screen5 {
+  height: 1286px;
+  margin: 0px 0px 0px 0px;
+}
+#screen6 {
+  height: 828px;
+  margin: 0px 0px 0px 0px;
+}
+#screen7 {
+  height: 1004px;
+  margin: 0px 0px 0px 0px;
+}
+#screen8 {
+  width: 967px;
+  margin: 0px 0px 0px 0px;
+}
+#screen9 {
+  width: 1344px;
+  margin: 0px 0px 0px 0px;
+}
+#screen10 {
+  height: 946px;
+  margin: 0px 0px 0px 0px;
+}
+#screen11 {
+  height: 1092px;
+  margin: 0px 0px 0px 0px;
+}
+#screen12 {
+  height: 759px;
+  margin: 0px 0px 0px 0px;
 }
 .fontstyles {
   display: flex;
@@ -61,7 +96,7 @@ h2 {
   font-weight: 500;
   line-height: 99px;
 }
-#screen3 h2 {
+#screen4 h2 {
   color: #F3F3F3;
 }
 p {
