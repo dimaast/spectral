@@ -127,10 +127,9 @@ p {
 }
 #s8p1 {
   width: 1968px;
-  margin-left: -6px;
   font-size: 144px;
   font-weight: 200;
-  padding-top: 52px;
+  padding-top: 52px 0px 0px -6px;
   text-transform: uppercase;
   line-height: 199px;
 }
