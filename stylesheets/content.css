@@ -76,14 +76,16 @@ body {
 }
 /* Настройки div внутри экранов */
 #s2text {
-  display: block;
+  display: inline;
   margin: 0 auto;
   padding: 52px 0px 0px 0px;
 }
 #s2bold {
+  display: block;
   width: 221px;
 }
 #s2reg {
+  display: block;
   width: 595px;
 }
 #samoletvzlet {
