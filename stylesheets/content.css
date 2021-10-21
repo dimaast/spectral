@@ -77,9 +77,14 @@ body {
 /* Настройки div внутри экранов */
 #s2text {
   display: block;
-  width: 221px;
   margin: 0 auto;
   padding: 52px 0px 0px 0px;
+}
+#s2bold {
+  width: 221px;
+}
+#s2reg {
+  width: 595px;
 }
 #samoletvzlet {
   display: flex;
