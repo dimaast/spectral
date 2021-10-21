@@ -6,7 +6,6 @@ body {
   color: #162DFB;
   width: 1280px;
   background-color: #F3F3F3;
-  background-image: url("../img/back.svg");
 }
 #screen1 {
   height: 720px;
@@ -19,6 +18,7 @@ body {
   height: 810px;
   margin: 0 auto;
   color: #162DFB;
+  background-image: url("../img/s2b.svg");
 }
 #screen3 {
   height: 1074px;
