@@ -19,8 +19,7 @@ body {
   margin: 207px auto;
 }
 h1 {
-  display: flex;
-  margin: 0px auto;
+  margin: -15px auto;
   width: 1101px;
   height: 397px;
   font-size: 288px;
