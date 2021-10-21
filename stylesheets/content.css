@@ -76,7 +76,7 @@ body {
 }
 /* Настройки div внутри экранов */
 #s2text {
-  display: block;
+  display: flex;
   padding: 52px auto;
 }
 #samoletvzlet {
