@@ -121,10 +121,14 @@ h3 {
   line-height: 33px;
   font-weight: 200;
 }
+/* Настройка текста*/
 p {
   font-size: 32px;
   font-style: regular;
   line-height: 44px;
+}
+.lh {
+  font-weight: 700;
 }
 #text2{
   width: 570px;
