@@ -153,5 +153,5 @@ p {
   display: flex;
   width: 1160px;
   margin: 0 auto;
-  padding-top: 226px;
+  padding: 226px 0px 156px 0px;
 }
