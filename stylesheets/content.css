@@ -8,8 +8,8 @@ body {
   background-image: url("../img/hm.svg");
   margin: 0px auto;
 }
-#screen {
-  height: 790px;
+#screen1 {
+  height: 720px;
   width: 1280px;
   margin: 0px 0px 0px 0px;
   background-image: url("../img/oblakaback.svg");
