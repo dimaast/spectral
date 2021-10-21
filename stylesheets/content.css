@@ -89,7 +89,6 @@ body {
 }
 /* Настройки заголовков */
 h1 {
-  position: absolute;
   margin: -125px auto -133px;
   width: 1101px;
   height: 397px;
