@@ -15,7 +15,8 @@ body {
 }
 #samoletvzlet {
   width: 96px;
-  margin: 207px 0px 0px 0px;
+  display: flex;
+  margin: 207px auto;
 }
 h1 {
   margin: 0px auto;
