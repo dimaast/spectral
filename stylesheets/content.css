@@ -76,8 +76,10 @@ body {
 }
 /* Настройки div внутри экранов */
 #s2text {
+  width: 876px;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   margin: 0 auto;
   padding: 52px 0px 0px 0px;
 }
