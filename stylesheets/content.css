@@ -1,3 +1,6 @@
+html {
+  width: 1280px;
+}
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
