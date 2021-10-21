@@ -84,7 +84,7 @@ body {
   padding: 52px 0px 0px 0px;
 }
 #s2bold {
-  height: 410px;
+  width: 410px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
