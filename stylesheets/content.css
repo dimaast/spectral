@@ -74,13 +74,6 @@ h1 {
   height: 759px;
   margin: 0px 0px 0px 0px;
 }
-.fontstyles {
-  display: flex;
-  flex-direction: row;
-  margin: 52px 0px 0px 60px;
-  width: 1160px;
-  justify-content: space-between;
-}
 h2 {
   margin: 0 auto;
   padding-top: 52px;
