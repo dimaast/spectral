@@ -82,8 +82,15 @@ body {
   justify-content: space-between;
   margin: 0 auto;
 }
+#a {
+  padding: 52px 0px 0px 0px;
+}
+#aa {
+  padding: 34px 0px 0px 0px;
+}
 .lh1 {
   width: 221px;
+  font-weight: 700;
 }
 .lh2 {
   width: 595px;
