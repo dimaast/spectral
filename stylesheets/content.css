@@ -1,7 +1,7 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Spectral', sans-serif;
+  font-family: 'Spectral', serif;
   margin: 0 auto;
   color: #162DFB;
   width: 1280px;
@@ -132,6 +132,7 @@ h3 {
 p {
   font-size: 32px;
   line-height: 44px;
+  font-weight: 300;
 }
 .lh {
   font-weight: 700;
