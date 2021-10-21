@@ -82,10 +82,16 @@ body {
   justify-content: space-between;
   margin: 0 auto;
 }
-#a {
+#s2t1 {
   padding: 52px 0px 0px 0px;
 }
-#aa {
+#s2t2 {
+  padding: 34px 0px 0px 0px;
+}
+#s2t3 {
+  padding: 34px 0px 0px 0px;
+}
+#s2t4 {
   padding: 34px 0px 0px 0px;
 }
 .lh1 {
@@ -147,9 +153,6 @@ p {
   font-size: 32px;
   line-height: 44px;
   font-weight: 300;
-}
-.lh {
-  font-weight: 700;
 }
 #text2{
   width: 570px;
