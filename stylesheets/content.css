@@ -8,8 +8,10 @@ body {
   margin: 0 auto;
 }
 #screen {
-  height: 1030px;
+  height: 790px;
   margin: 0px 0px 0px 0px;
+  background-color: #162DFB;
+  color: #F3F3F3;
 }
 #screen2 {
   width: 1030px;
