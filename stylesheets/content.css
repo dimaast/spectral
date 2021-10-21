@@ -14,6 +14,10 @@ body {
   background-color: #162DFB;
   background-image: url("../img/oblakaback.svg");
 }
+#samoletvzlet {
+  width: 96px;
+  margin: 207px auto 0px
+}
 h1 {
   margin: -125px auto -133px;
   width: 1101px;
