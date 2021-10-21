@@ -6,7 +6,7 @@ body {
   width: 1280px;
   background-color: #F3F3F3;
   background-image: url("../img/hm.svg");
-  margin: 0 auto;
+  margin: 0px auto;
 }
 #screen {
   height: 790px;
