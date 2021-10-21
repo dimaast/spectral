@@ -87,14 +87,14 @@ body {
   height: 410px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 221px;
 }
 #s2reg {
   height: 410px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 595px;
 }
 #samoletvzlet {
