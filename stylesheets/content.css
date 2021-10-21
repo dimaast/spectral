@@ -61,6 +61,7 @@ p {
   line-height: 50px;
   font-style: italic;
   margin: 0 auto;
+  padding: -100px 0px 0px 0px;
 }
 #text2{
   width: 570px;
