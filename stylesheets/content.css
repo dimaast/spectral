@@ -19,7 +19,6 @@ body {
   margin: 207px auto;
 }
 h1 {
-  display: flex;
   margin: 0px auto;
   width: 1101px;
   height: 397px;
@@ -28,7 +27,6 @@ h1 {
   line-height: 397px;
 }
 #text1{
-  display: flex;
   width: 1092px;
   text-align: right;
   font-size: 36px;
