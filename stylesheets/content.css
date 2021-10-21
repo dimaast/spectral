@@ -8,6 +8,7 @@ body {
   background-color: #F3F3F3;
 }
 #screen1 {
+  width: 1280px;
   height: 720px;
   margin: 0px 0px 0px 0px;
   color: #F3F3F3;
