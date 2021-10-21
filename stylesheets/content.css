@@ -76,7 +76,7 @@ body {
 }
 /* Настройки div внутри экранов */
 #s2text {
-  display:
+  display: flex;
   margin: 0 auto;
   padding: 52px 0px 0px 0px;
 }
