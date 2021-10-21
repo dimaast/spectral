@@ -85,13 +85,15 @@ body {
 }
 #s2bold {
   height: 410px;
-  display: block;
+  display: flex;
+  flex-direction: column;
   justify-content: space-between;
   width: 221px;
 }
 #s2reg {
   height: 410px;
-  display: block;
+  display: flex;
+  flex-direction: column;
   justify-content: space-between;
   width: 595px;
 }
