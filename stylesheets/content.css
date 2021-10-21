@@ -5,6 +5,8 @@ body {
   margin: 0 auto;
   color: #162DFB;
   width: 1280px;
+  background-color: #F3F3F3;
+  background-image: url("../img/hm.svg");
 }
 #screen1 {
   width: 100%;
@@ -13,7 +15,6 @@ body {
   margin: 0px 0px 0px 0px;
   color: #F3F3F3;
   background-color: #162DFB;
-  background-image: url("../img/oblakaback.svg");
 }
 #samoletvzlet {
   width: 96px;
