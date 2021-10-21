@@ -27,12 +27,12 @@ h1 {
   line-height: 397px;
 }
 #text1{
+  margin: -77px auto;
   width: 1092px;
   text-align: right;
   font-size: 36px;
   line-height: 50px;
   font-style: italic;
-  margin: -77px auto;
 }
 #screen2 {
   height: 810px;
