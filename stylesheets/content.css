@@ -13,6 +13,22 @@ body {
   background-color: #162DFB;
   color: #F3F3F3;
 }
+h1 {
+  margin: 0 auto;
+  padding: 140px 0px 0px 0px;
+  width: 1101px;
+  font-size: 288px;
+  font-weight: 700;
+  line-height: 397px;
+}
+#text1{
+  width: 1092px;
+  text-align: right;
+  font-size: 36px;
+  line-height: 50px;
+  font-style: italic;
+  margin: -115px auto;
+}
 #screen2 {
   width: 1030px;
   margin: 0px 0px 0px 0px;
@@ -28,14 +44,6 @@ body {
   margin: 52px 0px 0px 60px;
   width: 1160px;
   justify-content: space-between;
-}
-h1 {
-  margin: 0 auto;
-  padding: 140px 0px 0px 0px;
-  width: 1101px;
-  font-size: 288px;
-  font-weight: 700;
-  line-height: 397px;
 }
 h2 {
   margin: 0 auto;
@@ -54,14 +62,7 @@ p {
   font-style: regular;
   line-height: 44px;
 }
-#text1{
-  width: 1092px;
-  text-align: right;
-  font-size: 36px;
-  line-height: 50px;
-  font-style: italic;
-  margin: -115px auto;
-}
+
 #text2{
   width: 570px;
   margin: 15px 0px 0px 60px;
