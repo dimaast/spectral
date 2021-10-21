@@ -21,7 +21,7 @@ body {
 h1 {
   display: flex;
   margin: 0px auto;
-  padding: 152px 0px 0px 0px;
+  padding: -15px 0px 0px 0px;
   width: 1101px;
   height: 397px;
   font-size: 288px;
