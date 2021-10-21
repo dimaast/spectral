@@ -76,7 +76,7 @@ body {
 }
 /* Настройки div внутри экранов */
 #s2text {
-  display: block;
+  display:
   margin: 0 auto;
   padding: 52px 0px 0px 0px;
 }
@@ -130,7 +130,6 @@ h3 {
 /* Настройка текста*/
 p {
   font-size: 32px;
-  font-style: regular;
   line-height: 44px;
 }
 .lh {
