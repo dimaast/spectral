@@ -74,6 +74,10 @@ body {
   height: 759px;
   margin: 0px 0px 0px 0px;
 }
+/* Настройки div внутри экранов */
+#s2text {
+  padding: 52px auto;
+}
 #samoletvzlet {
   display: flex;
   width: 96px;
