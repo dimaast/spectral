@@ -84,11 +84,17 @@ body {
   padding: 52px 0px 0px 0px;
 }
 #s2bold {
-  display: block;
+  height: 410px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 221px;
 }
 #s2reg {
-  display: block;
+  height: 410px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 595px;
 }
 #samoletvzlet {
