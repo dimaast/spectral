@@ -18,6 +18,7 @@ body {
   background-image: url("../img/oblakaback.svg");
 }
 #samoletvzlet {
+  display: flex;
   width: 96px;
   margin: 207px auto 0px
 }
