@@ -82,6 +82,12 @@ body {
   justify-content: space-between;
   margin: 0 auto;
 }
+.lh1 {
+  width: 221px;
+}
+.lh2 {
+  width: 595px;
+}
 #s2text {
   width: 876px;
   display: flex;
