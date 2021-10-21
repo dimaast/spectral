@@ -9,10 +9,10 @@ body {
   background-image: url("../img/hm.svg");
 }
 #screen1 {
-  height: 730px;
+  height: 720px;
   margin: 0px 0px 0px 0px;
   background-image: url("../img/oblakaback.svg");
-  background-color: ;
+  background-color: #162DFB;
   color: #F3F3F3;
 }
 h1 {
