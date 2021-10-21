@@ -17,8 +17,8 @@ body {
   width: 96px;
   display: flex;
   margin: 207px auto 0px;
-  background-image: url("../img/oblakaback.svg");
   background-color: #162DFB;
+  background-image: url("../img/oblakaback.svg");
 }
 h1 {
   margin: -125px auto -133px;
