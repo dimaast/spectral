@@ -126,9 +126,12 @@ p {
   line-height: 44px;
 }
 #s8p1 {
+  width: 1968px;
+  margin-left: -6px;
   font-size: 144px;
   font-weight: 200;
   padding-top: 52px;
+  text-transform: uppercase;
 }
 #text2{
   width: 570px;
