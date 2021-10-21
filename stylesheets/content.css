@@ -31,26 +31,37 @@ body {
 #screen5 {
   height: 1286px;
   margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-image: url("../img/s5b.svg");
 }
 #screen6 {
   height: 828px;
   margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-color: #162DFB;
 }
 #screen7 {
   height: 1004px;
   margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-color: #162DFB;
 }
 #screen8 {
   height: 967px;
   margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-color: #162DFB;
 }
 #screen9 {
   height: 1344px;
   margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-color: #162DFB;
 }
 #screen10 {
   height: 946px;
   margin: 0px 0px 0px 0px;
+  background-image: url("../img/s10b.svg");
 }
 #screen11 {
   height: 1092px;
