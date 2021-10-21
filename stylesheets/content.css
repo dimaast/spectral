@@ -84,16 +84,14 @@ body {
   padding: 52px 0px 0px 0px;
 }
 #s2bold {
-  width: 410px;
-  display: flex;
-  flex-direction: column;
+  height: 410px;
+  display: block;
   justify-content: space-between;
   width: 221px;
 }
 #s2reg {
   height: 410px;
-  display: flex;
-  flex-direction: column;
+  display: block;
   justify-content: space-between;
   width: 595px;
 }
