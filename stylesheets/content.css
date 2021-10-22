@@ -362,11 +362,20 @@ h3 {
   margin: 0px 0px 0px 0px;
   background-image: url("../img/s10b.svg");
 }
-#s10img {
-  display: flex;
-  width: 1160px;
-  margin: 0 auto;
-  padding-top: 226px;
+#remni {
+  position: absolute;
+  top: 9308px;
+  left: 278px;
+  font-size: 30px;
+  line-height: 41px;
+  width: 310px;
+}
+#illumi {
+  top: 9308px;
+  left: 578px;
+  font-size: 30px;
+  line-height: 41px;
+  width: 434px;
 }
 /* Настройки 11 экрана */
 #screen11 {
