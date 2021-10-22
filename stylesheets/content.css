@@ -7,7 +7,7 @@ body {
   width: 1280px;
   background-color: #F3F3F3;
 }
-/* Настройки div экранов */
+/* Настройки 1 экрана*/
 #screen1 {
   height: 720px;
   margin: 0 auto;
@@ -21,66 +21,55 @@ body {
   margin: 0 auto;
   padding: 207px 0px 0px 0px;
 } /* Самолёт */
+h1 {
+  margin: -125px auto -133px;
+  width: 1101px;
+  height: 397px;
+  font-size: 288px;
+  font-weight: 700;
+  line-height: 397px;
+}
+p {
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 300;
+} /* Настройки всех параграфов*/
+#screen1 p {
+  margin: 36px auto;
+  width: 1092px;
+  text-align: right;
+  font-size: 36px;
+  line-height: 50px;
+  font-style: italic;
+}
+/* Настройки 2 экрана */
 #screen2 {
   height: 810px;
   margin: 0 auto;
   color: #162DFB;
   background-image: url("../img/s2b.svg");
 }
-#screen3 {
-  height: 1074px;
-  margin: 0px 0px 0px 0px;
+h2 {
+  width: 1160px;
+  margin: 0 auto;
+  padding-top: 52px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 99px;
+} /* Настройки всех заголовков второго уровня*/
+#screen2 h2 {
+  padding: 122px 0px 0px 0px;
 }
-#screen4 {
-  height: 1105px;
-  margin: 0px 0px 0px 0px;
+h3 {
+  width: 1160px;
+  margin: -10px auto 0px;
+  text-align: center;
+  font-size: 24px;
+  line-height: 33px;
+  font-weight: 200;
 }
-#screen5 {
-  height: 1286px;
-  margin: 0px 0px 0px 0px;
-  color: #F3F3F3;
-  background-image: url("../img/s5b.svg");
-}
-#screen6 {
-  height: 828px;
-  margin: 0px 0px 0px 0px;
-  color: #F3F3F3;
-  background-image: url("../img/s6b.svg");
-  background-color: #162DFB;
-}
-#screen7 {
-  height: 1004px;
-  margin: 0px 0px 0px 0px;
-  color: #F3F3F3;
-  background-color: #162DFB;
-}
-#screen8 {
-  height: 967px;
-  margin: 0px 0px 0px 0px;
-  color: #F3F3F3;
-  background-image: url("../img/s8b.svg");
-  background-color: #162DFB;
-}
-#screen9 {
-  height: 1344px;
-  margin: 0px 0px 0px 0px;
-  color: #F3F3F3;
-  background-color: #162DFB;
-}
-#screen10 {
-  height: 946px;
-  margin: 0px 0px 0px 0px;
-  background-image: url("../img/s10b.svg");
-}
-#screen11 {
-  height: 1092px;
-  margin: 0px 0px 0px 0px;
-}
-#screen12 {
-  height: 759px;
-  margin: 0px 0px 0px 0px;
-}
-/* Настройки внутри 2 экрана */
 .s2text {
   width: 876px;
   display: flex;
@@ -107,22 +96,11 @@ body {
 .lh2 {
   width: 595px;
 }
-/* Настройки внутри 12 экрана */
-.s12text {
-  width: 662px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin: 0 auto;
+/* Настройки 3 экрана */
+#screen3 {
+  height: 1074px;
+  margin: 0px 0px 0px 0px;
 }
-.lh3 {
-  width: 254px;
-  font-weight: 700;
-}
-.lh4 {
-  width: 348px;
-}
-/* Настройки внутри 3 экрана */
 #s3tablo {
   height: 744px;
   margin: 52px auto;
@@ -302,52 +280,26 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-/* Настройки заголовков */
-h1 {
-  margin: -125px auto -133px;
-  width: 1101px;
-  height: 397px;
-  font-size: 288px;
-  font-weight: 700;
-  line-height: 397px;
+/* Настройки 4 экрана */
+#screen4 {
+  height: 1105px;
+  margin: 0px 0px 0px 0px;
 }
-h2 {
+#s4img {
+  display: flex;
   width: 1160px;
-  margin: 0 auto;
   padding-top: 52px;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 72px;
-  font-weight: 500;
-  line-height: 99px;
+  margin: 0 auto;
 }
-#screen2 h2 {
-  padding: 122px 0px 0px 0px;
+/* Настройки 5 экрана */
+#screen5 {
+  height: 1286px;
+  margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-image: url("../img/s5b.svg");
 }
 #screen5 h2 {
   padding: 122px 0px 0px 0px;
-}
-h3 {
-  width: 1160px;
-  margin: -10px auto 0px;
-  text-align: center;
-  font-size: 24px;
-  line-height: 33px;
-  font-weight: 200;
-}
-/* Настройка текста*/
-p {
-  font-size: 32px;
-  line-height: 44px;
-  font-weight: 300;
-}
-#screen1 p {
-  margin: 36px auto;
-  width: 1092px;
-  text-align: right;
-  font-size: 36px;
-  line-height: 50px;
-  font-style: italic;
 }
 #s5lh {
   padding: 154px 0px 0px 120px;
@@ -362,13 +314,20 @@ p {
   width: 705px;
   color: #162DFB;
 }
+/* Настройки 6 экрана */
+#screen6 {
+  height: 828px;
+  margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-image: url("../img/s6b.svg");
+  background-color: #162DFB;
 }
-/* Настройка изображений*/
-#s4img {
-  display: flex;
-  width: 1160px;
-  padding-top: 52px;
-  margin: 0 auto;
+/* Настройки 7 экрана */
+#screen7 {
+  height: 1004px;
+  margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-color: #162DFB;
 }
 #s7img {
   display: flex;
@@ -376,11 +335,32 @@ p {
   margin: 0 auto;
   padding-top: 52px;
 }
+/* Настройки 8 экрана */
+#screen8 {
+  height: 967px;
+  margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-image: url("../img/s8b.svg");
+  background-color: #162DFB;
+}
+/* Настройки 9 экрана */
+#screen9 {
+  height: 1344px;
+  margin: 0px 0px 0px 0px;
+  color: #F3F3F3;
+  background-color: #162DFB;
+}
 #s9img {
   display: flex;
   width: 1160px;
   padding-top: 52px;
   margin: 0 auto;
+}
+/* Настройки 10 экрана */
+#screen10 {
+  height: 946px;
+  margin: 0px 0px 0px 0px;
+  background-image: url("../img/s10b.svg");
 }
 #s10img {
   display: flex;
@@ -388,12 +368,36 @@ p {
   margin: 0 auto;
   padding-top: 226px;
 }
+/* Настройки 11 экрана */
+#screen11 {
+  height: 1092px;
+  margin: 0px 0px 0px 0px;
+}
 #s11img {
   display: flex;
   width: 1160px;
   padding-top: 52px;
   margin: 0 auto;
 }
+/* Настройки 12 экрана */
+#screen12 {
+  height: 759px;
+  margin: 0px 0px 0px 0px;
+}
 #s12img {
   padding-top: 107px;
+}
+.s12text {
+  width: 662px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.lh3 {
+  width: 254px;
+  font-weight: 700;
+}
+.lh4 {
+  width: 348px;
 }
