@@ -352,7 +352,10 @@ p {
   color: #162DFB;
 }
 #s5text {
-
+  padding: 40px 0px 0px 120px;
+  width: 705px;
+  color: #162DFB;
+}
 }
 /* Настройка изображений*/
 #s1img1 {
