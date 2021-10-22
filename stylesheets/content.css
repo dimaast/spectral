@@ -357,6 +357,7 @@ p {
   padding-top: 226px;
 }
 #s11img {
+  display: flex;
   width: 1160px;
   padding-top: 52px;
   margin: 0 auto;
