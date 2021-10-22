@@ -350,6 +350,24 @@ p {
   margin: 0 auto;
   padding: 207px 0px 0px 0px;
 } /* Самолёт */
+#s4img {
+  display: flex;
+  width: 1160px;
+  padding-top: 52px;
+  margin: 0 auto;
+}
+#s7img {
+  display: flex;
+  width: 1160px;
+  margin: 0 auto;
+  padding-top: 52px;
+}
+#s9img {
+  display: flex;
+  width: 1160px;
+  padding-top: 52px;
+  margin: 0 auto;
+}
 #s10img {
   display: flex;
   width: 1160px;
@@ -361,24 +379,6 @@ p {
   width: 1160px;
   padding-top: 52px;
   margin: 0 auto;
-}
-#s4img {
-  display: flex;
-  width: 1160px;
-  padding-top: 52px;
-  margin: 0 auto;
-}
-#s9img {
-  display: flex;
-  width: 1160px;
-  padding-top: 52px;
-  margin: 0 auto;
-}
-#s7img {
-  display: flex;
-  width: 1160px;
-  margin: 0 auto;
-  padding-top: 52px;
 }
 #s12img {
   padding-top: 107px;
