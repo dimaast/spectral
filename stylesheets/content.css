@@ -115,12 +115,12 @@ body {
   background-color: #F3F3F3;
   background-image: url("../img/s3img.svg");
 }
-.city1 {
+#city1 {
+  font-weight: 100;
   width: 520px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 0 auto;
 }
 #bukva {
   width: 40px;
