@@ -107,6 +107,13 @@ body {
   margin: 0 auto;
   padding: 207px 0px 0px 0px;
 }
+#s3tablo {
+  height: 744x;
+  margin: 0 auto;
+  color: #162DFB;
+  background-color: #F3F3F3;
+  background-image: url("../img/s3img.svg");
+}
 /* Настройки заголовков */
 h1 {
   margin: -125px auto -133px;
