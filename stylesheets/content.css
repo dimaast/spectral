@@ -120,7 +120,7 @@ body {
   height: 54px;
   text-align: center;
 }
-.city1 {
+#city1 {
   position: relative;
   top: 214px;
   left: 60px;
@@ -130,7 +130,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.city2 {
+#city2 {
   position: relative;
   top: 222px;
   left: 60px;
@@ -140,7 +140,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.city3 {
+#city3 {
   position: relative;
   top: 230px;
   left: 60px;
@@ -150,7 +150,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.city4 {
+#city4 {
   position: relative;
   top: 238px;
   left: 60px;
@@ -160,7 +160,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.city5 {
+#city5 {
   position: relative;
   top: 246px;
   left: 60px;
@@ -170,7 +170,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.city6 {
+#city6 {
   position: relative;
   top: 254px;
   left: 60px;
@@ -180,11 +180,11 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.city7 {
+#city7 {
+  font-weight: 800;
   position: relative;
   top: 262px;
   left: 60px;
-  font-weight: 800;
   width: 232px;
   display: flex;
   flex-direction: row;
