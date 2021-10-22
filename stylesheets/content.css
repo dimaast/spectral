@@ -356,8 +356,9 @@ p {
   margin: 0 auto;
   padding-top: 226px;
 }
-#s11img1 {
-  width: 364px;
+#s11img {
+  padding-top: 52px;
+  margin: 0 auto;
 }
 #s7img {
   display: flex;
