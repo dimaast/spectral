@@ -362,6 +362,12 @@ p {
   padding-top: 52px;
   margin: 0 auto;
 }
+#s9img {
+  display: flex;
+  width: 1160px;
+  padding-top: 52px;
+  margin: 0 auto;
+}
 #s7img {
   display: flex;
   width: 1160px;
