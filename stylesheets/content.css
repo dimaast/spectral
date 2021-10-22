@@ -101,11 +101,13 @@ body {
 .lh2 {
   width: 595px;
 }
-#s1img1 {
-  display: flex;
-  width: 96px;
-  margin: 0 auto;
-  padding: 207px 0px 0px 0px;
+/* Настройки внутри 12 экрана */
+.lh3 {
+  width: 254px;
+  font-weight: 700;
+}
+.lh4 {
+  width: 348px;
 }
 /* Настройки внутри 3 экрана */
 #s3tablo {
@@ -335,22 +337,12 @@ p {
   font-style: italic;
 }
 /* Настройка изображений*/
-#tablo {
-  margin: 39px 60px 0px 60px;
-  width: 1160px;
-}
-#visa {
-  margin: 52px 60px 0px 60px;
-  width: 1160px;
-}
-#astyleregular {
-  width: 570px;
-  height: 569px;
-}
-#astyleitalic {
-  width: 570px;
-  height: 569px;
-}
+#s1img1 {
+  display: flex;
+  width: 96px;
+  margin: 0 auto;
+  padding: 207px 0px 0px 0px;
+} /* Самолёт */
 #s10img {
   display: flex;
   width: 1160px;
