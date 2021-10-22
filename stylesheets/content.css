@@ -120,6 +120,9 @@ body {
   height: 54px;
   text-align: center;
 }
+.bukva7 {
+  font-weight: 800;
+}
 #s3tablotext {
   padding-top: 214px;
   width: 1160px;
@@ -245,7 +248,6 @@ body {
 }
 #city14 {
   padding-top: 8px;
-  font-weight: 800;
   font-style: italic;
   width: 232px;
   display: flex;
