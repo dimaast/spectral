@@ -115,7 +115,38 @@ body {
   background-color: #F3F3F3;
   background-image: url("../img/s3img1.svg");
 }
-.bukva {
+.bukva1 {
+  font-weight: 200;
+  width: 40px;
+  height: 54px;
+  text-align: center;
+}
+.bukva2 {
+  font-weight: 300;
+  width: 40px;
+  height: 54px;
+  text-align: center;
+}
+.bukva3 {
+  font-weight: 400;
+  width: 40px;
+  height: 54px;
+  text-align: center;
+}
+.bukva4 {
+  font-weight: 500;
+  width: 40px;
+  height: 54px;
+  text-align: center;
+}
+.bukva5 {
+  font-weight: 600;
+  width: 40px;
+  height: 54px;
+  text-align: center;
+}
+.bukva6 {
+  font-weight: 700;
   width: 40px;
   height: 54px;
   text-align: center;
@@ -242,7 +273,6 @@ body {
 }
 #city13 {
   padding-top: 8px;
-  font-weight: 700;
   font-style: italic;
   width: 424px;
   display: flex;
