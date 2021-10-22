@@ -364,14 +364,15 @@ h3 {
 }
 #remni {
   position: absolute;
-  top: 9308px;
-  left: 278px;
+  top: 9377px;
+  left: 296px;
   font-size: 30px;
   line-height: 41px;
   width: 310px;
 }
 #illumi {
-  top: 9308px;
+  position: absolute;
+  top: 9377px;
   left: 578px;
   font-size: 30px;
   line-height: 41px;
