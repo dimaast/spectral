@@ -125,6 +125,7 @@ body {
 #bukva {
   width: 40px;
   height: 54px;
+  text-align: center;
 }
 /* Настройки заголовков */
 h1 {
