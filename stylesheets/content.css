@@ -192,7 +192,7 @@ body {
 }
 #city8 {
   position: relative;
-  top: 214px;
+  top: -164px;
   left: 700px;
   font-weight: 200;
   font-style: italic;
@@ -203,7 +203,7 @@ body {
 }
 #city9 {
   position: relative;
-  top: 222px;
+  top: -156px;
   left: 700px;
   font-weight: 300;
   font-style: italic;
@@ -214,7 +214,7 @@ body {
 }
 #city10 {
   position: relative;
-  top: 230px;
+  top: -148px;
   left: 700px;
   font-weight: 400;
   font-style: italic;
@@ -225,7 +225,7 @@ body {
 }
 #city11 {
   position: relative;
-  top: 238px;
+  top: -140px;
   left: 700px;
   font-weight: 500;
   font-style: italic;
@@ -236,7 +236,7 @@ body {
 }
 #city12 {
   position: relative;
-  top: 246px;
+  top: -132px;
   left: 700px;
   font-weight: 600;
   font-style: italic;
@@ -247,7 +247,7 @@ body {
 }
 #city13 {
   position: relative;
-  top: 254px;
+  top: -124px;
   left: 700px;
   font-weight: 700;
   font-style: italic;
@@ -260,7 +260,7 @@ body {
   font-weight: 800;
   font-style: italic;
   position: relative;
-  top: 262px;
+  top: -116px;
   left: 700px;
   width: 232px;
   display: flex;
