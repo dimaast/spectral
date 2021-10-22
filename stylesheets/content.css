@@ -122,7 +122,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-.bukva {
+#bukva {
   width: 40px;
   height: 54px;
 }
