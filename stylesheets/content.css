@@ -121,8 +121,8 @@ body {
   text-align: center;
 }
 #city1 {
-  margin-top: 214px;
-  margin-left: 60px;
+  padding-top: 214px;
+  padding-left: 60px;
   font-weight: 200;
   width: 520px;
   display: flex;
@@ -130,8 +130,8 @@ body {
   justify-content: space-between;
 }
 #city2 {
-  margin-top: 214px;
-  margin-left: 60px;
+  padding-top: 214px;
+  padding-left: 60px;
   font-weight: 300;
   width: 232px;
   display: flex;
