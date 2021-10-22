@@ -115,7 +115,7 @@ body {
   background-color: #F3F3F3;
   background-image: url("../img/s3img1.svg");
 }
-#bukva {
+.bukva {
   width: 40px;
   height: 54px;
   text-align: center;
