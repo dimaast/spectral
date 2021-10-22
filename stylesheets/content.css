@@ -139,9 +139,8 @@ body {
   justify-content: space-between;
 }
 #city3 {
-  position: relative;
-  top: 230px;
-  left: 60px;
+  padding-top: 8px;
+  padding-left: 60px;
   font-weight: 400;
   width: 472px;
   display: flex;
@@ -149,9 +148,8 @@ body {
   justify-content: space-between;
 }
 #city4 {
-  position: relative;
-  top: 238px;
-  left: 60px;
+  padding-top: 8px;
+  padding-left: 60px;
   font-weight: 500;
   width: 232px;
   display: flex;
@@ -159,9 +157,8 @@ body {
   justify-content: space-between;
 }
 #city5 {
-  position: relative;
-  top: 246px;
-  left: 60px;
+  padding-top: 8px;
+  padding-left: 60px;
   font-weight: 600;
   width: 280px;
   display: flex;
@@ -169,9 +166,8 @@ body {
   justify-content: space-between;
 }
 #city6 {
-  position: relative;
-  top: 254px;
-  left: 60px;
+  padding-top: 8px;
+  padding-left: 60px;
   font-weight: 700;
   width: 376px;
   display: flex;
@@ -179,19 +175,17 @@ body {
   justify-content: space-between;
 }
 #city7 {
+  padding-top: 8px;
+  padding-left: 60px;
   font-weight: 800;
-  position: relative;
-  top: 262px;
-  left: 60px;
   width: 232px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 #city8 {
-  position: relative;
-  top: -164px;
-  left: 700px;
+  padding-top: 214px;
+  padding-left: 700px;
   font-weight: 200;
   font-style: italic;
   width: 280px;
@@ -200,9 +194,8 @@ body {
   justify-content: space-between;
 }
 #city9 {
-  position: relative;
-  top: -156px;
-  left: 700px;
+  padding-top: 8px;
+  padding-left: 700px;
   font-weight: 300;
   font-style: italic;
   width: 520px;
@@ -211,9 +204,8 @@ body {
   justify-content: space-between;
 }
 #city10 {
-  position: relative;
-  top: -148px;
-  left: 700px;
+  padding-top: 8px;
+  padding-left: 700px;
   font-weight: 400;
   font-style: italic;
   width: 328px;
@@ -222,9 +214,8 @@ body {
   justify-content: space-between;
 }
 #city11 {
-  position: relative;
-  top: -140px;
-  left: 700px;
+  padding-top: 8px;
+  padding-left: 700px;
   font-weight: 500;
   font-style: italic;
   width: 424px;
@@ -233,9 +224,8 @@ body {
   justify-content: space-between;
 }
 #city12 {
-  position: relative;
-  top: -132px;
-  left: 700px;
+  padding-top: 8px;
+  padding-left: 700px;
   font-weight: 600;
   font-style: italic;
   width: 184px;
@@ -244,9 +234,8 @@ body {
   justify-content: space-between;
 }
 #city13 {
-  position: relative;
-  top: -124px;
-  left: 700px;
+  padding-top: 8px;
+  padding-left: 700px;
   font-weight: 700;
   font-style: italic;
   width: 424px;
@@ -255,11 +244,10 @@ body {
   justify-content: space-between;
 }
 #city14 {
+  padding-top: 8px;
+  padding-left: 700px;
   font-weight: 800;
   font-style: italic;
-  position: relative;
-  top: -116px;
-  left: 700px;
   width: 232px;
   display: flex;
   flex-direction: row;
