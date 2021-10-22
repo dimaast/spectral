@@ -70,7 +70,7 @@ h3 {
   line-height: 33px;
   font-weight: 200;
 }
-#s2text {
+.s2text {
   width: 876px;
   display: flex;
   flex-direction: row;
