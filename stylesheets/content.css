@@ -190,6 +190,83 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
+#city8 {
+  position: relative;
+  top: 214px;
+  left: 700px;
+  font-weight: 200;
+  font-style: italic;
+  width: 280px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#city9 {
+  position: relative;
+  top: 222px;
+  left: 700px;
+  font-weight: 300;
+  font-style: italic;
+  width: 520px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#city10 {
+  position: relative;
+  top: 230px;
+  left: 700px;
+  font-weight: 400;
+  font-style: italic;
+  width: 328px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#city11 {
+  position: relative;
+  top: 238px;
+  left: 700px;
+  font-weight: 500;
+  font-style: italic;
+  width: 424px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#city12 {
+  position: relative;
+  top: 246px;
+  left: 700px;
+  font-weight: 600;
+  font-style: italic;
+  width: 184px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#city13 {
+  position: relative;
+  top: 254px;
+  left: 700px;
+  font-weight: 700;
+  font-style: italic;
+  width: 424px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#city14 {
+  font-weight: 800;
+  font-style: italic;
+  position: relative;
+  top: 262px;
+  left: 700px;
+  width: 232px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 /* Настройки заголовков */
 h1 {
   margin: -125px auto -133px;
