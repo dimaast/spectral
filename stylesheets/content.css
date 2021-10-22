@@ -344,10 +344,12 @@ p {
   font-style: italic;
 }
 #s5lh {
+  padding: 398px 0px 0px 120px;
   width: 465px;
   font-size: 48px;
   line-height: 66px;
   font-weight: 700;
+  color: #162DFB;
 }
 #s5text {
 
