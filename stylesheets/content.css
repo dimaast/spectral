@@ -116,7 +116,7 @@ body {
   background-image: url("../img/s3img.svg");
 }
 .city1 {
-  position: куrelative;
+  position: relative;
   top: 214px;
   left: 60px;
   font-weight: 100;
