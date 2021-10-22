@@ -140,6 +140,16 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
+.city3 {
+  position: relative;
+  top: 335px;
+  left: 60px;
+  font-weight: 300;
+  width: 472px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 /* Настройки заголовков */
 h1 {
   margin: -125px auto -133px;
