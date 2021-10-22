@@ -124,7 +124,7 @@ body {
   position: relative;
   top: 214px;
   left: 60px;
-  font-weight: 100;
+  font-weight: 200;
   width: 520px;
   display: flex;
   flex-direction: row;
@@ -134,7 +134,7 @@ body {
   position: relative;
   top: 222px;
   left: 60px;
-  font-weight: 200;
+  font-weight: 300;
   width: 232px;
   display: flex;
   flex-direction: row;
@@ -144,7 +144,7 @@ body {
   position: relative;
   top: 230px;
   left: 60px;
-  font-weight: 300;
+  font-weight: 400;
   width: 472px;
   display: flex;
   flex-direction: row;
@@ -154,7 +154,7 @@ body {
   position: relative;
   top: 238px;
   left: 60px;
-  font-weight: 400;
+  font-weight: 500;
   width: 232px;
   display: flex;
   flex-direction: row;
@@ -164,7 +164,7 @@ body {
   position: relative;
   top: 246px;
   left: 60px;
-  font-weight: 500;
+  font-weight: 600;
   width: 280px;
   display: flex;
   flex-direction: row;
@@ -174,7 +174,7 @@ body {
   position: relative;
   top: 254px;
   left: 60px;
-  font-weight: 600;
+  font-weight: 700;
   width: 376px;
   display: flex;
   flex-direction: row;
@@ -184,7 +184,7 @@ body {
   position: relative;
   top: 262px;
   left: 60px;
-  font-weight: 700;
+  font-weight: 800;
   width: 232px;
   display: flex;
   flex-direction: row;
