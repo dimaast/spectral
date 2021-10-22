@@ -120,11 +120,19 @@ body {
   height: 54px;
   text-align: center;
 }
+#s3tablotext {
+  width: 1160px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+}
 #romanfont {
-
+  width: 520px
 }
 #italicfont {
-
+  width: 520px
 }
 #city1 {
   padding-top: 214px;
