@@ -102,6 +102,13 @@ body {
   width: 595px;
 }
 /* Настройки внутри 12 экрана */
+.s12text {
+  width: 662px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+}
 .lh3 {
   width: 254px;
   font-weight: 700;
