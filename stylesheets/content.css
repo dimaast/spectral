@@ -121,7 +121,6 @@ body {
   text-align: center;
 }
 #city1 {
-  position: relative;
   top: 214px;
   left: 60px;
   font-weight: 200;
@@ -131,7 +130,6 @@ body {
   justify-content: space-between;
 }
 #city2 {
-  position: relative;
   top: 222px;
   left: 60px;
   font-weight: 300;
