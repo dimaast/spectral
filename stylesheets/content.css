@@ -107,12 +107,24 @@ body {
   margin: 0 auto;
   padding: 207px 0px 0px 0px;
 }
+/* Настройки внутри 3 экрана */
 #s3tablo {
   height: 744px;
   margin: 52px auto;
   color: #162DFB;
   background-color: #F3F3F3;
   background-image: url("../img/s3img.svg");
+}
+#city1 {
+  width: 520px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+#bukva {
+  width: 40px;
+  height: 54px;
 }
 /* Настройки заголовков */
 h1 {
