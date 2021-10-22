@@ -115,7 +115,7 @@ body {
   background-color: #F3F3F3;
   background-image: url("../img/s3img.svg");
 }
-#city1 {
+.city1 {
   width: 520px;
   display: flex;
   flex-direction: row;
